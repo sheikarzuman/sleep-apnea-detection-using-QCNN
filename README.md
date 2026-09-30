@@ -6,7 +6,7 @@ The project combines classical preprocessing, dimensionality reduction, quantum 
 
 Project: Hybrid QCNN Model for Sleep Apnea Detection Using ECG Signals
 Institution: VIT Chennai
-Authors: Swetha Selvakumaran, Shaik Nadeem Ansari, Sheik Arzuman S
+
 
 ⸻
 
